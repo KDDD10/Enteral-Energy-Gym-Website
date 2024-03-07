@@ -20,31 +20,48 @@ The live website can be found here [here](https://37a10195-e203-4820-9e93-132c4a
 * As a First Time User, I would want to follow the Gym on various social media networks.
   
 #### Returning and Frequent Visitor Goals
-* I want to find up-to-date information about events
-* I want to be able to contact the company for any requests I have
-* I want to join the community and be social
+* I want to find information on what they have to offer at their gym
 * I want to find information on how to improve myself physically
+* I want to be able to see what the gym looks like
+* I want to join the community and be social
   
 ***
 ## Structure
 
-
-> As a First Time User, I want to be able to quickly grasp the site's main purpose.
+Th home page gives details on what it wants the user to understand, giving multiple details of the gym.
+This is done in order to fulfill the user story:
+> * As a First Time User, I want to be able to quickly grasp the site's main purpose.
 
 To make it easier for users to navigate the website, every page will include a navigation menu at the top that leads to a new page.
 To conserve space on smaller devices, the navigation menu on a mobile device will be able collapse in size.
 This is done in order to fulfill the user story:
+> * As a First Time User, I want to be able to quickly browse the website and locate all of its material.
 
-> As a First Time User, I want to be able to quickly browse the website and locate all of its material.
+The website will be made responsive through the use of media queries and/or the Boostrap Grid system by using custom CSS and/or Bootstrap.
 
+Every page will adjust its layout according to the size of the screen and will be responsive. This is done to make sure that the content flows well, that images are viewed correctly, and that the text is not jumbled into tiny, unreadable chunks that are side by side.
+This is done in order to fulfill the user story:
+> * As a First Time User, I want to be able to clearly view the website and content on different devices.
 
+Every page will have a footer element with social media icons. Font-awesome provides the icons that are used. 
+This is done in order to fulfill the user story:
+> * As a First Time User, I would want to follow the Gym on various social media networks.
 
+On the Home Page there will be information on what the gym can offer you
+This is done in order to fulfill the user story:
+> * I want to find information on what they have to offer at their gym
 
-> As a First Time User, I want to be able to clearly view the website and content on different devices.
+On the Home Page there will be details of what going to the gym does for you
+This is done in order to fulfill the user story:
+> * I want to find information on how to improve myself physically
 
+The Gallery Page gives multiple images so that users acn see how the gym looks as well as how friendly people are to each other
+This is done in order to fulfill the user story:
+> * I want to be able to see what the gym looks like
 
-> As a First Time User, I would want to follow the Gym on various social media networks.
-
+The Signup Page allow users to join the gym and become a member
+This is done in order to fulfill the user story:
+> * I want to join the community and be social
 
 ***
 
