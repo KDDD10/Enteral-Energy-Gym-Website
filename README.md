@@ -97,29 +97,30 @@ The images used in this project were sourced from different websites. These were
 * [Techsini](https://techsini.com/multi-mockup/)
   * Techsini was used to create the multi device website mockup image in this README
 ***
+## Features
+### Existing Features
+#### Navigation Bar
+A fully responsive, sticky navigation bar is present at the top of every page. It has links to the Home, Gallery, and Signup pages in addition to the Logo, which takes you to the Home page. To guarantee easy and intuitive navigation, the website maintains the same layout on all devices. Without taking extra steps or using the browser's navigation buttons, the user can access any area of the website from anywhere on the page thanks to the Navbar.
+
+On a mobile device, it becomes a small menu. The same options are available in this dropdown menu, but they're shown as a column against a semitransparent background.
+
+#### Hero Image
+The hero image is what the user sees right away and is visually stimulating. Because visual associations are often very strong, it also aids in delivering the page's semantics. Key selling elements are also included on the front page to aid the user in understanding the website's purpose.
+There is no overlay included. Every image has been chosen to complement the color scheme of the website and add to the visual impact of the design. The section heading, which is shown in the color scheme of the block that represents this page on the Home page, follows each image. Color coding facilitates association-building and content navigation for the user.
+
+#### Signup Page
+The user can join the community and sign up for Eternal Gym Group on this page. The form on the page requests the user to provide their email address and full name. 
+
+## Responsive Layout
+On all screen sizes and resolutions, the website is intended to be adaptable, fluid, responsive, and aesthetically pleasing.All hero images have mobile counterparts, which are smaller and have different aspect ratios, to guarantee optimal performance on mobile devices. Because of how important the photos are to conveying the website's semantics and intended user experience.
+***
 ## Testing
 
 #### Summary
 Time for honesty, I didn't do any testing. I didn't realise that I had to do multiple tests on different web browsers and record the results. So unfornately I have nothing to show in this section.
 
 ## Deployment
-Another moment of honesty. I was using 'Replit' to do my work for the past few weeks. Once it came round to the last week, I found out I had to use Github and link all my work together. As well as use it to make commits to
-
-
-
-
-
-
-***
-
-## Tests
-
-***
-
-## Deployment
-### Project Creation
-
-
+Another moment of honesty. I was using 'Replit' to do my work for the past few weeks. Once it came round to the last week, I found out I had to use Github and link all my work together. As well as use it to make commits to my work to show that I have been making progress. I tried to figure out how to do that for the past few days and unfortunately I couldn't get it to work. I truly struggled and although I had help, I just couldn't get it to work. So I didn't end up using Github or any use Gits to take progress pictures of my work.
 ***
 ## Credits
 ### Code
